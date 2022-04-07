@@ -1,0 +1,28 @@
+body {
+	background-color: #EDDDD4;
+}
+
+.margin {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+h1{
+	background-color: #283D3B;
+	color: #197278;
+}
+
+h2 {
+	background-color: #C44536;
+	color: #772E25;
+}
+
+.base{
+	color: #283D3B;
+	background-color: #197278;
+}
+
+.height {
+	color: #C44536;
+	background-color: #772E25;
+}
